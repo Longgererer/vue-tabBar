@@ -24,13 +24,13 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 一个可配置的，基于`vue`的`tabBar`组件，
 
 #### tabBarConfig.js：
-位于`src/public/js`目录下，为tabBar配置文件，可配置内容如下：
+位于`src/public/js`目录下，为`tabBar`配置文件，可配置内容如下：
 
 **borderStyle&lt;String&gt;**: 边框样式 &emsp;<font color=#999999>参考值：`'1px solid #ccc'`</font>
 
-**backgroundColor&lt;String&gt;**: tabBar背景色  &emsp;<font color=#999999>参考值：`'#FFFFFF'`</font>
+**backgroundColor&lt;String&gt;**: `tabBar`背景色  &emsp;<font color=#999999>参考值：`'#FFFFFF'`</font>
 
-**list&lt;Array&gt;**: tabBat列表，可配置内容如下：
+**list&lt;Array&gt;**: `tabBar`列表，可配置内容如下：
 
 &emsp;&emsp;&emsp;&emsp;**router**： 配置路由&emsp;<font color=#999999>参考值：`'/'`</font>  
 &emsp;&emsp;&emsp;&emsp;**text**： 文字内容&emsp;<font color=#999999>参考值：`'用户'`</font>  
