@@ -3,7 +3,6 @@ const config = {
     backgroundColor: '#FFFFFF',
     list: [
         {
-            router: '',
             text: '主页',
             iconPath: '../../static/dynamic.png',
             selectIconPath: '../../static/dynamic-active.png',
@@ -12,7 +11,6 @@ const config = {
             textSelectColor: '#000000'
         },
         {
-            router: '',
             text: '消息',
             iconPath: '../../static/dynamic.png',
             selectIconPath: '../../static/dynamic-active.png',

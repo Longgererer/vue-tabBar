@@ -31,8 +31,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 **backgroundColor&lt;String&gt;**: `tabBar`背景色  &emsp;<font color=#999999>参考值：`'#FFFFFF'`</font>
 
 **list&lt;Array&gt;**: `tabBar`列表，可配置内容如下：
-
-&emsp;&emsp;&emsp;&emsp;**router**： 配置路由&emsp;<font color=#999999>参考值：`'/'`</font>  
+ 
 &emsp;&emsp;&emsp;&emsp;**text**： 文字内容&emsp;<font color=#999999>参考值：`'用户'`</font>  
 &emsp;&emsp;&emsp;&emsp;**iconPath**： 图标地址（未选中）&emsp;<font color=#999999>参考值：`'../../static/dynamic.png'`</font>  
 &emsp;&emsp;&emsp;&emsp;**selectIconPath**： 图标地址（选中）&emsp;<font color=#999999>参考值：`'../../static/dynamic-active.png'`</font>  
