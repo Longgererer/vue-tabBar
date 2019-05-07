@@ -21,14 +21,14 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## 说明
-一个可配置的，基于`vue`的`tabBar`组件:  
+一个可配置的，基于`vue`的`tabBar`组件，
 
 #### tabBarConfig.js：
 位于`src/public/js`目录下，为tabBar配置文件，可配置内容如下：
 
-**borderStyle&lt;String&gt;**: 边框样式 &emsp;<font color=#999999>参考值：'1px solid #ccc'</font>
+**borderStyle&lt;String&gt;**: 边框样式 &emsp;<font color=#999999>参考值：`'1px solid #ccc'`</font>
 
-**backgroundColor&lt;String&gt;**: tabBar背景色  &emsp;<font color=#999999>参考值：'#FFFFFF'</font>
+**backgroundColor&lt;String&gt;**: tabBar背景色  &emsp;<font color=#999999>参考值：`'#FFFFFF'`</font>
 
 **list&lt;Array&gt;**: tabBat列表，可配置内容如下：
 
